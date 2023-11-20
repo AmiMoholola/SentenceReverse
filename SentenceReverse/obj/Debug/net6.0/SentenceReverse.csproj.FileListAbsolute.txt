@@ -1,0 +1,15 @@
+C:\Users\AmosM\source\repos\SentenceReverse\bin\Debug\net6.0\SentenceReverse.exe
+C:\Users\AmosM\source\repos\SentenceReverse\bin\Debug\net6.0\SentenceReverse.deps.json
+C:\Users\AmosM\source\repos\SentenceReverse\bin\Debug\net6.0\SentenceReverse.runtimeconfig.json
+C:\Users\AmosM\source\repos\SentenceReverse\bin\Debug\net6.0\SentenceReverse.dll
+C:\Users\AmosM\source\repos\SentenceReverse\bin\Debug\net6.0\SentenceReverse.pdb
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.csproj.AssemblyReference.cache
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.AssemblyInfoInputs.cache
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.AssemblyInfo.cs
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.csproj.CoreCompileInputs.cache
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.dll
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\refint\SentenceReverse.dll
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.pdb
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\SentenceReverse.genruntimeconfig.cache
+C:\Users\AmosM\source\repos\SentenceReverse\obj\Debug\net6.0\ref\SentenceReverse.dll
